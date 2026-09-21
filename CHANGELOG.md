@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.347.0
+
 ## 0.346.0
 
 <details><summary>googleads/ad-manager 0.14.0</summary>
